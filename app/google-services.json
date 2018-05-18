@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1088136522015",
+    "firebase_url": "https://dunk-8bcbb.firebaseio.com",
+    "project_id": "dunk-8bcbb",
+    "storage_bucket": "dunk-8bcbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088136522015:android:0d1ef33daa534a93",
+        "android_client_info": {
+          "package_name": "com.ashusinha.android.dunk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088136522015-pf26rbhs33i7nqi1f7dt1tmc2cbl03jf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashusinha.android.dunk",
+            "certificate_hash": "ac0956db379468bcf986a52dc2f2695b969fec61"
+          }
+        },
+        {
+          "client_id": "1088136522015-uv7egotontn15tajtthtrldv42rhjf9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcqu9QRD7HdRWFfM7VQ0Fnmt7t9tXDLoY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088136522015-uv7egotontn15tajtthtrldv42rhjf9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
